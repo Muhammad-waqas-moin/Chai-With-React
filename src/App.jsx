@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <h1>Chai with React | Developer waqas khanzada</h1>
+      <h1>Chai with React | Developer waqas</h1>
     </>
   );
 }
