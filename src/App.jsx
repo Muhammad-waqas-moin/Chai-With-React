@@ -1,7 +1,10 @@
+import Chai from "./Chai";
 function App() {
+  const userName = "waqas";
   return (
     <>
-      <h1>Chai with React | Developer waqas</h1>
+      <Chai />
+      <h1>Chai with React | With Developer {userName}</h1>
     </>
   );
 }
